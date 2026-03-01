@@ -36,4 +36,4 @@ I care about:
 
 ## Connect
 
--   🌐 [skysbane.com](https://SkysBane.com)
+-   🌐 [skysbane.com](SkysBane.com)
