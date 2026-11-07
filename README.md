@@ -1,7 +1,7 @@
 # Aiden Morgan
 
 Founder of **SkysBane LLC**\
-Game Designer • Systems Thinker
+Game Designer • Systems Designer
 
 I design games and levels.
 
